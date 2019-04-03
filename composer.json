@@ -1,0 +1,19 @@
+{
+    "name": "kidkang/pwd",
+    "description": "pwd check create",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kidkang",
+            "email": "723616880@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kd\\Pwd\\":"src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
